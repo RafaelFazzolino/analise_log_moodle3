@@ -1,5 +1,7 @@
 # Instalação
 
+Instalar o Mozilla geckodriver: https://github.com/mozilla/geckodriver/releases
+
 Basta instalar utilizando o pip3. Na pasta raiz deste projeto, execute:
 
 ```
